@@ -1,0 +1,501 @@
+id_transacao,id_cliente,tipo_transacao,valor,data_transacao,conta_origem,conta_destino,descricao
+1,144,saque,4938.32,2025-02-06 03:23:00,Conta H,,Saque
+2,143,deposito,1314.72,2025-02-20 18:45:00,Conta I,,Depósito
+3,106,transferencia,4173.77,2025-01-27 23:08:00,Conta J,Conta G,Transferência
+4,121,deposito,2987.08,2025-01-02 07:47:00,Conta D,,Depósito
+5,118,transferencia,1363.74,2025-01-18 00:03:00,Conta D,Conta I,Transferência
+6,125,deposito,899.24,2025-02-24 19:52:00,Conta H,,Depósito
+7,109,transferencia,3216.55,2025-01-03 19:01:00,Conta B,Conta I,Transferência
+8,133,transferencia,3047.05,2025-01-03 16:23:00,Conta A,Conta H,Transferência
+9,115,saque,1416.94,2025-01-16 16:11:00,Conta I,,Saque
+10,137,saque,2154.79,2025-02-26 19:32:00,Conta A,,Saque
+11,105,saque,4401.92,2025-01-31 23:47:00,Conta I,,Saque
+12,100,transferencia,911.23,2025-01-23 13:25:00,Conta D,Conta A,Transferência
+13,103,transferencia,1891.8,2025-02-08 05:34:00,Conta G,Conta A,Transferência
+14,117,saque,28.84,2025-01-01 14:16:00,Conta G,,Saque
+15,126,deposito,459.27,2025-02-17 04:22:00,Conta G,,Depósito
+16,124,transferencia,152.01,2025-02-21 14:49:00,Conta D,Conta J,Transferência
+17,113,transferencia,4330.61,2025-01-11 12:07:00,Conta B,Conta B,Transferência
+18,126,saque,712.64,2025-01-24 00:47:00,Conta E,,Saque
+19,113,transferencia,4680.96,2025-01-06 11:36:00,Conta D,Conta H,Transferência
+20,146,saque,968.64,2025-02-07 13:26:00,Conta G,,Saque
+21,150,deposito,4386.13,2025-01-09 07:54:00,Conta H,,Depósito
+22,143,deposito,4979.72,2025-02-19 06:51:00,Conta I,,Depósito
+23,148,saque,1064.87,2025-01-09 10:36:00,Conta B,,Saque
+24,104,saque,1267.64,2025-01-05 01:02:00,Conta F,,Saque
+25,110,saque,3243.7,2025-01-20 07:03:00,Conta D,,Saque
+26,107,deposito,2450.76,2025-02-09 03:58:00,Conta B,,Depósito
+27,149,deposito,22.92,2025-01-13 21:21:00,Conta A,,Depósito
+28,118,transferencia,722.91,2025-01-23 08:02:00,Conta A,Conta E,Transferência
+29,134,transferencia,4407.04,2025-01-30 06:14:00,Conta H,Conta B,Transferência
+30,104,transferencia,2803.15,2025-02-28 11:05:00,Conta C,Conta J,Transferência
+31,138,transferencia,832.15,2025-02-03 14:24:00,Conta D,Conta C,Transferência
+32,146,saque,1192.18,2025-01-09 03:36:00,Conta A,,Saque
+33,122,deposito,2096.92,2025-01-26 19:17:00,Conta B,,Depósito
+34,130,deposito,3993.32,2025-01-11 15:49:00,Conta G,,Depósito
+35,146,transferencia,1123.23,2025-01-13 19:09:00,Conta B,Conta C,Transferência
+36,123,saque,2881.31,2025-01-08 11:52:00,Conta A,,Saque
+37,150,deposito,3266.46,2025-01-23 04:57:00,Conta D,,Depósito
+38,147,saque,1748.56,2025-02-28 18:13:00,Conta F,,Saque
+39,121,saque,255.13,2025-02-18 18:34:00,Conta A,,Saque
+40,126,saque,1314.29,2025-01-23 15:39:00,Conta H,,Saque
+41,133,deposito,2636.74,2025-01-04 06:51:00,Conta B,,Depósito
+42,120,deposito,144.38,2025-02-24 06:04:00,Conta J,,Depósito
+43,111,saque,177.0,2025-02-01 10:52:00,Conta I,,Saque
+44,122,transferencia,735.37,2025-02-24 05:10:00,Conta A,Conta D,Transferência
+45,146,deposito,1975.6,2025-02-18 06:54:00,Conta I,,Depósito
+46,105,saque,2271.25,2025-02-25 00:21:00,Conta A,,Saque
+47,138,deposito,2802.04,2025-02-20 15:59:00,Conta F,,Depósito
+48,111,saque,1768.19,2025-02-03 16:50:00,Conta D,,Saque
+49,148,saque,4755.15,2025-01-11 17:44:00,Conta E,,Saque
+50,108,transferencia,3537.31,2025-01-05 05:10:00,Conta B,Conta I,Transferência
+51,150,transferencia,3467.59,2025-01-16 12:10:00,Conta D,Conta G,Transferência
+52,124,transferencia,2341.31,2025-01-23 18:37:00,Conta E,Conta E,Transferência
+53,110,deposito,146.06,2025-01-31 10:13:00,Conta B,,Depósito
+54,120,transferencia,1345.37,2025-02-13 02:54:00,Conta A,Conta F,Transferência
+55,147,deposito,2613.14,2025-02-17 05:34:00,Conta C,,Depósito
+56,130,deposito,907.17,2025-01-13 16:06:00,Conta I,,Depósito
+57,108,deposito,1103.73,2025-01-24 00:54:00,Conta G,,Depósito
+58,123,deposito,1263.95,2025-01-14 11:46:00,Conta B,,Depósito
+59,139,deposito,2538.14,2025-02-15 18:32:00,Conta F,,Depósito
+60,147,transferencia,2365.1,2025-01-18 21:11:00,Conta A,Conta G,Transferência
+61,133,transferencia,92.68,2025-01-16 07:34:00,Conta E,Conta J,Transferência
+62,134,deposito,2796.14,2025-02-21 19:56:00,Conta D,,Depósito
+63,132,deposito,3006.01,2025-02-27 23:52:00,Conta I,,Depósito
+64,123,deposito,304.67,2025-02-07 15:07:00,Conta F,,Depósito
+65,129,transferencia,29.23,2025-01-06 03:20:00,Conta C,Conta G,Transferência
+66,113,saque,1599.34,2025-02-23 10:01:00,Conta H,,Saque
+67,127,saque,3061.8,2025-02-25 00:19:00,Conta C,,Saque
+68,138,deposito,619.99,2025-01-12 07:31:00,Conta F,,Depósito
+69,118,saque,905.63,2025-01-27 08:32:00,Conta F,,Saque
+70,107,deposito,2332.19,2025-02-12 13:00:00,Conta A,,Depósito
+71,144,transferencia,4282.33,2025-02-12 08:21:00,Conta B,Conta B,Transferência
+72,145,deposito,469.44,2025-02-20 19:34:00,Conta F,,Depósito
+73,135,saque,3717.7,2025-01-31 17:46:00,Conta J,,Saque
+74,126,deposito,1389.59,2025-02-08 05:11:00,Conta H,,Depósito
+75,138,transferencia,2564.92,2025-02-03 11:08:00,Conta D,Conta H,Transferência
+76,128,saque,2398.59,2025-02-03 12:34:00,Conta E,,Saque
+77,107,deposito,2478.97,2025-02-27 15:42:00,Conta B,,Depósito
+78,143,deposito,4545.67,2025-01-24 06:09:00,Conta G,,Depósito
+79,124,saque,2936.59,2025-02-16 20:38:00,Conta B,,Saque
+80,117,saque,1717.0,2025-01-04 12:21:00,Conta E,,Saque
+81,110,transferencia,632.62,2025-01-20 07:39:00,Conta D,Conta I,Transferência
+82,125,transferencia,3126.0,2025-01-28 19:48:00,Conta D,Conta D,Transferência
+83,107,transferencia,2855.89,2025-01-05 16:54:00,Conta C,Conta F,Transferência
+84,109,deposito,4322.49,2025-03-01 00:51:00,Conta J,,Depósito
+85,106,deposito,80.69,2025-01-17 20:01:00,Conta G,,Depósito
+86,133,saque,2682.66,2025-01-24 09:32:00,Conta C,,Saque
+87,150,transferencia,2625.36,2025-02-15 19:00:00,Conta J,Conta H,Transferência
+88,129,saque,509.78,2025-02-05 23:18:00,Conta E,,Saque
+89,144,transferencia,4791.35,2025-01-20 20:56:00,Conta I,Conta F,Transferência
+90,146,deposito,2785.13,2025-01-26 11:37:00,Conta I,,Depósito
+91,108,deposito,2872.15,2025-02-21 05:35:00,Conta D,,Depósito
+92,141,deposito,851.4,2025-02-09 01:31:00,Conta A,,Depósito
+93,126,deposito,4685.41,2025-02-10 10:35:00,Conta I,,Depósito
+94,110,transferencia,907.98,2025-02-05 01:32:00,Conta D,Conta H,Transferência
+95,134,deposito,1394.94,2025-02-10 11:48:00,Conta J,,Depósito
+96,100,transferencia,4720.25,2025-01-22 03:40:00,Conta B,Conta B,Transferência
+97,119,transferencia,1649.0,2025-03-02 09:40:00,Conta F,Conta H,Transferência
+98,116,saque,4518.24,2025-02-21 08:06:00,Conta B,,Saque
+99,138,saque,2990.71,2025-02-14 14:09:00,Conta B,,Saque
+100,116,transferencia,3398.5,2025-02-09 12:28:00,Conta D,Conta E,Transferência
+101,112,transferencia,2098.01,2025-01-27 08:04:00,Conta J,Conta F,Transferência
+102,130,deposito,3102.82,2025-01-15 05:20:00,Conta G,,Depósito
+103,121,saque,2663.55,2025-02-28 12:59:00,Conta C,,Saque
+104,132,transferencia,505.95,2025-02-15 22:58:00,Conta J,Conta B,Transferência
+105,147,transferencia,3012.32,2025-02-13 16:23:00,Conta G,Conta G,Transferência
+106,119,transferencia,338.89,2025-02-22 11:24:00,Conta F,Conta H,Transferência
+107,150,deposito,986.31,2025-01-06 01:12:00,Conta C,,Depósito
+108,124,saque,485.91,2025-02-09 18:20:00,Conta F,,Saque
+109,135,saque,2018.58,2025-01-24 04:59:00,Conta F,,Saque
+110,142,transferencia,858.86,2025-02-13 01:16:00,Conta E,Conta J,Transferência
+111,121,saque,4201.44,2025-01-29 08:11:00,Conta G,,Saque
+112,145,deposito,2170.12,2025-01-05 23:16:00,Conta J,,Depósito
+113,101,transferencia,798.32,2025-02-22 18:39:00,Conta H,Conta G,Transferência
+114,118,deposito,3878.15,2025-01-17 18:48:00,Conta C,,Depósito
+115,142,deposito,2756.36,2025-02-23 09:55:00,Conta J,,Depósito
+116,116,transferencia,585.04,2025-02-21 00:53:00,Conta I,Conta H,Transferência
+117,114,transferencia,4261.14,2025-01-09 09:27:00,Conta F,Conta F,Transferência
+118,128,deposito,1765.71,2025-01-13 14:05:00,Conta B,,Depósito
+119,115,deposito,827.93,2025-01-11 17:13:00,Conta D,,Depósito
+120,141,saque,3537.22,2025-01-22 20:45:00,Conta E,,Saque
+121,126,deposito,2773.11,2025-02-26 17:06:00,Conta C,,Depósito
+122,103,transferencia,3665.9,2025-01-30 16:31:00,Conta I,Conta F,Transferência
+123,138,saque,1628.05,2025-02-03 15:23:00,Conta D,,Saque
+124,142,deposito,640.66,2025-02-08 00:42:00,Conta G,,Depósito
+125,112,saque,3642.59,2025-02-27 18:38:00,Conta E,,Saque
+126,102,saque,2674.11,2025-01-31 15:47:00,Conta D,,Saque
+127,110,transferencia,2651.01,2025-01-07 23:10:00,Conta G,Conta G,Transferência
+128,136,transferencia,3434.77,2025-02-03 12:31:00,Conta D,Conta G,Transferência
+129,145,transferencia,4817.26,2025-02-10 22:54:00,Conta F,Conta D,Transferência
+130,129,transferencia,688.98,2025-01-14 10:53:00,Conta B,Conta G,Transferência
+131,149,deposito,3936.8,2025-01-02 01:38:00,Conta F,,Depósito
+132,113,transferencia,4548.94,2025-02-19 11:27:00,Conta I,Conta E,Transferência
+133,132,deposito,869.8,2025-02-02 17:28:00,Conta C,,Depósito
+134,134,saque,3845.44,2025-02-15 04:56:00,Conta F,,Saque
+135,102,deposito,4074.78,2025-01-24 05:13:00,Conta D,,Depósito
+136,102,transferencia,3273.05,2025-01-26 16:47:00,Conta H,Conta D,Transferência
+137,102,saque,542.86,2025-02-03 01:55:00,Conta C,,Saque
+138,146,saque,4129.14,2025-01-23 06:31:00,Conta H,,Saque
+139,141,transferencia,2141.24,2025-01-07 18:08:00,Conta C,Conta A,Transferência
+140,147,saque,3694.33,2025-01-03 13:48:00,Conta H,,Saque
+141,123,deposito,2036.93,2025-01-12 03:11:00,Conta B,,Depósito
+142,106,saque,845.55,2025-02-25 15:44:00,Conta A,,Saque
+143,102,deposito,871.8,2025-01-05 11:36:00,Conta J,,Depósito
+144,100,transferencia,1439.4,2025-02-24 02:09:00,Conta D,Conta B,Transferência
+145,101,saque,4683.96,2025-01-04 15:13:00,Conta D,,Saque
+146,117,deposito,703.33,2025-02-12 01:22:00,Conta J,,Depósito
+147,137,saque,2682.6,2025-02-20 10:46:00,Conta A,,Saque
+148,109,deposito,1133.2,2025-02-23 05:35:00,Conta I,,Depósito
+149,146,transferencia,4126.23,2025-02-04 09:35:00,Conta H,Conta A,Transferência
+150,125,transferencia,4207.03,2025-01-20 05:53:00,Conta D,Conta I,Transferência
+151,102,transferencia,2088.82,2025-01-14 13:05:00,Conta E,Conta E,Transferência
+152,121,saque,3272.02,2025-01-11 08:11:00,Conta I,,Saque
+153,111,saque,1581.53,2025-01-31 06:31:00,Conta B,,Saque
+154,108,transferencia,3412.95,2025-02-14 07:01:00,Conta D,Conta B,Transferência
+155,101,deposito,4690.93,2025-02-03 04:46:00,Conta D,,Depósito
+156,143,transferencia,934.33,2025-01-26 22:32:00,Conta B,Conta E,Transferência
+157,132,transferencia,2012.83,2025-02-04 09:41:00,Conta A,Conta D,Transferência
+158,107,saque,1267.37,2025-01-23 11:34:00,Conta G,,Saque
+159,149,deposito,2346.41,2025-01-20 05:31:00,Conta H,,Depósito
+160,142,transferencia,320.11,2025-01-18 05:56:00,Conta D,Conta G,Transferência
+161,145,deposito,4965.08,2025-02-23 01:37:00,Conta A,,Depósito
+162,138,saque,1282.85,2025-02-26 02:28:00,Conta F,,Saque
+163,140,transferencia,2883.63,2025-01-06 14:01:00,Conta C,Conta A,Transferência
+164,132,deposito,3355.63,2025-02-17 10:45:00,Conta I,,Depósito
+165,148,transferencia,4879.38,2025-01-14 23:36:00,Conta E,Conta F,Transferência
+166,122,saque,1987.01,2025-02-03 07:36:00,Conta F,,Saque
+167,114,saque,1131.64,2025-02-09 01:15:00,Conta I,,Saque
+168,115,saque,4725.21,2025-01-21 01:32:00,Conta F,,Saque
+169,146,transferencia,3775.01,2025-02-23 23:52:00,Conta J,Conta J,Transferência
+170,114,deposito,1231.27,2025-02-22 00:28:00,Conta E,,Depósito
+171,136,transferencia,2737.84,2025-01-14 02:06:00,Conta I,Conta A,Transferência
+172,108,saque,4790.75,2025-01-31 02:49:00,Conta C,,Saque
+173,143,transferencia,2893.47,2025-02-28 20:22:00,Conta E,Conta H,Transferência
+174,114,transferencia,1150.05,2025-01-09 22:37:00,Conta I,Conta G,Transferência
+175,113,transferencia,4661.56,2025-01-06 12:29:00,Conta G,Conta D,Transferência
+176,125,deposito,1779.11,2025-02-02 21:14:00,Conta J,,Depósito
+177,119,deposito,1186.62,2025-01-08 22:22:00,Conta I,,Depósito
+178,103,deposito,2180.08,2025-01-26 10:20:00,Conta A,,Depósito
+179,113,saque,846.2,2025-02-13 20:31:00,Conta B,,Saque
+180,150,transferencia,1898.42,2025-02-22 17:43:00,Conta E,Conta A,Transferência
+181,114,deposito,870.63,2025-02-05 14:08:00,Conta I,,Depósito
+182,137,transferencia,3530.22,2025-01-10 22:05:00,Conta E,Conta I,Transferência
+183,109,transferencia,4210.08,2025-01-30 00:32:00,Conta A,Conta G,Transferência
+184,139,deposito,1122.5,2025-01-12 23:31:00,Conta G,,Depósito
+185,131,saque,4803.36,2025-01-15 05:18:00,Conta J,,Saque
+186,104,saque,97.71,2025-01-22 20:24:00,Conta G,,Saque
+187,118,transferencia,1274.47,2025-02-12 11:50:00,Conta G,Conta E,Transferência
+188,148,transferencia,1716.06,2025-02-28 17:12:00,Conta A,Conta B,Transferência
+189,147,transferencia,2170.1,2025-01-16 05:56:00,Conta B,Conta F,Transferência
+190,100,transferencia,2050.02,2025-01-03 21:17:00,Conta A,Conta J,Transferência
+191,125,saque,4187.05,2025-02-22 07:14:00,Conta B,,Saque
+192,135,transferencia,2325.77,2025-01-27 01:29:00,Conta A,Conta H,Transferência
+193,105,deposito,3666.06,2025-02-10 20:31:00,Conta D,,Depósito
+194,140,transferencia,4784.05,2025-01-27 23:09:00,Conta C,Conta C,Transferência
+195,101,saque,513.62,2025-01-20 01:50:00,Conta B,,Saque
+196,109,saque,221.59,2025-01-13 13:05:00,Conta E,,Saque
+197,118,saque,189.36,2025-02-22 04:07:00,Conta G,,Saque
+198,142,transferencia,3463.43,2025-02-21 01:47:00,Conta C,Conta J,Transferência
+199,133,deposito,2381.31,2025-01-09 04:34:00,Conta J,,Depósito
+200,126,deposito,135.6,2025-02-14 11:08:00,Conta I,,Depósito
+201,121,saque,4539.64,2025-02-10 19:48:00,Conta A,,Saque
+202,109,saque,4112.02,2025-02-14 17:23:00,Conta J,,Saque
+203,131,transferencia,4798.07,2025-01-25 05:20:00,Conta B,Conta A,Transferência
+204,130,transferencia,1467.45,2025-01-13 07:16:00,Conta I,Conta B,Transferência
+205,121,transferencia,4248.93,2025-01-26 19:24:00,Conta B,Conta J,Transferência
+206,138,deposito,2314.27,2025-02-25 16:42:00,Conta H,,Depósito
+207,140,deposito,4946.72,2025-01-29 14:29:00,Conta H,,Depósito
+208,140,saque,4221.78,2025-01-12 00:47:00,Conta D,,Saque
+209,115,deposito,1897.99,2025-01-13 04:23:00,Conta J,,Depósito
+210,140,saque,120.81,2025-02-13 07:52:00,Conta C,,Saque
+211,104,deposito,261.44,2025-02-07 19:26:00,Conta J,,Depósito
+212,113,deposito,3402.0,2025-01-03 17:28:00,Conta D,,Depósito
+213,133,deposito,1326.76,2025-01-16 18:51:00,Conta E,,Depósito
+214,116,transferencia,4797.24,2025-02-15 08:58:00,Conta A,Conta G,Transferência
+215,135,deposito,4663.02,2025-01-18 09:30:00,Conta J,,Depósito
+216,122,saque,969.25,2025-01-03 12:08:00,Conta A,,Saque
+217,143,transferencia,4131.63,2025-02-27 02:55:00,Conta J,Conta C,Transferência
+218,116,saque,3756.91,2025-02-15 06:06:00,Conta B,,Saque
+219,142,saque,1481.43,2025-02-21 10:23:00,Conta B,,Saque
+220,130,transferencia,1181.26,2025-02-04 11:34:00,Conta C,Conta E,Transferência
+221,146,deposito,3289.18,2025-01-12 15:32:00,Conta H,,Depósito
+222,120,deposito,1390.96,2025-01-03 10:52:00,Conta B,,Depósito
+223,125,saque,2979.96,2025-01-24 09:11:00,Conta C,,Saque
+224,141,transferencia,3260.94,2025-02-02 17:39:00,Conta A,Conta H,Transferência
+225,145,transferencia,1129.09,2025-01-26 22:02:00,Conta D,Conta E,Transferência
+226,106,transferencia,1976.24,2025-03-02 07:54:00,Conta I,Conta I,Transferência
+227,135,transferencia,3961.87,2025-01-21 05:25:00,Conta G,Conta D,Transferência
+228,135,saque,4998.2,2025-01-06 06:58:00,Conta E,,Saque
+229,136,transferencia,4291.85,2025-01-11 02:07:00,Conta D,Conta C,Transferência
+230,124,deposito,2832.86,2025-02-04 04:50:00,Conta F,,Depósito
+231,146,transferencia,511.49,2025-01-20 14:22:00,Conta E,Conta B,Transferência
+232,145,saque,1373.71,2025-02-27 00:18:00,Conta I,,Saque
+233,132,deposito,4903.74,2025-01-24 04:14:00,Conta B,,Depósito
+234,114,deposito,2449.03,2025-01-07 20:17:00,Conta A,,Depósito
+235,112,saque,949.26,2025-02-08 08:16:00,Conta E,,Saque
+236,126,transferencia,4361.87,2025-02-25 20:17:00,Conta C,Conta I,Transferência
+237,136,saque,1040.47,2025-01-04 11:25:00,Conta E,,Saque
+238,114,transferencia,1713.12,2025-03-02 07:56:00,Conta H,Conta C,Transferência
+239,115,saque,3986.5,2025-01-17 16:49:00,Conta D,,Saque
+240,149,saque,1104.58,2025-01-10 16:26:00,Conta J,,Saque
+241,100,deposito,3064.68,2025-02-04 08:28:00,Conta F,,Depósito
+242,101,saque,4965.98,2025-01-06 04:10:00,Conta H,,Saque
+243,125,transferencia,284.26,2025-02-25 23:47:00,Conta F,Conta G,Transferência
+244,105,transferencia,3106.85,2025-02-24 23:22:00,Conta F,Conta C,Transferência
+245,100,deposito,206.97,2025-01-18 04:44:00,Conta J,,Depósito
+246,109,transferencia,182.73,2025-01-03 08:07:00,Conta G,Conta A,Transferência
+247,115,saque,4619.58,2025-02-04 12:13:00,Conta G,,Saque
+248,112,deposito,969.57,2025-01-13 04:45:00,Conta B,,Depósito
+249,102,transferencia,210.22,2025-02-11 05:12:00,Conta G,Conta F,Transferência
+250,131,deposito,3361.57,2025-02-18 11:08:00,Conta E,,Depósito
+251,101,deposito,3931.88,2025-02-06 07:04:00,Conta D,,Depósito
+252,102,deposito,2359.09,2025-01-02 15:34:00,Conta H,,Depósito
+253,150,transferencia,3860.05,2025-01-01 09:49:00,Conta C,Conta B,Transferência
+254,126,deposito,2814.93,2025-02-22 18:37:00,Conta A,,Depósito
+255,150,deposito,2309.72,2025-01-25 09:16:00,Conta C,,Depósito
+256,139,transferencia,2684.67,2025-02-24 01:29:00,Conta E,Conta A,Transferência
+257,114,saque,3883.78,2025-02-01 22:11:00,Conta B,,Saque
+258,111,deposito,2782.63,2025-02-02 08:33:00,Conta G,,Depósito
+259,138,saque,3058.86,2025-02-02 07:50:00,Conta E,,Saque
+260,127,saque,1172.51,2025-01-27 20:57:00,Conta J,,Saque
+261,144,deposito,4524.85,2025-02-01 19:41:00,Conta B,,Depósito
+262,136,transferencia,505.56,2025-02-07 23:00:00,Conta J,Conta C,Transferência
+263,118,transferencia,4589.16,2025-02-17 10:50:00,Conta H,Conta D,Transferência
+264,113,transferencia,2426.37,2025-03-01 00:11:00,Conta B,Conta H,Transferência
+265,135,saque,900.58,2025-01-07 00:01:00,Conta J,,Saque
+266,107,saque,2543.28,2025-01-27 16:08:00,Conta C,,Saque
+267,101,saque,1970.39,2025-01-08 21:14:00,Conta A,,Saque
+268,139,transferencia,4352.28,2025-01-18 15:40:00,Conta D,Conta D,Transferência
+269,150,deposito,3417.88,2025-02-01 16:24:00,Conta C,,Depósito
+270,127,deposito,1890.88,2025-01-31 16:01:00,Conta I,,Depósito
+271,120,deposito,4858.57,2025-02-11 01:54:00,Conta C,,Depósito
+272,111,saque,3387.12,2025-02-26 13:20:00,Conta B,,Saque
+273,140,transferencia,1104.8,2025-02-04 00:11:00,Conta I,Conta I,Transferência
+274,149,transferencia,605.37,2025-02-13 09:37:00,Conta E,Conta B,Transferência
+275,111,saque,1600.78,2025-02-03 01:58:00,Conta J,,Saque
+276,130,saque,1288.0,2025-02-25 08:18:00,Conta C,,Saque
+277,150,saque,1436.17,2025-01-19 08:47:00,Conta G,,Saque
+278,141,deposito,4131.62,2025-01-11 07:24:00,Conta A,,Depósito
+279,100,transferencia,4749.24,2025-01-03 09:12:00,Conta H,Conta J,Transferência
+280,125,saque,4359.11,2025-02-25 11:44:00,Conta G,,Saque
+281,125,deposito,2942.44,2025-01-28 23:22:00,Conta G,,Depósito
+282,148,transferencia,2655.36,2025-02-25 11:00:00,Conta C,Conta D,Transferência
+283,105,deposito,3391.22,2025-02-05 02:50:00,Conta F,,Depósito
+284,118,deposito,1832.45,2025-01-15 03:21:00,Conta G,,Depósito
+285,111,deposito,249.02,2025-02-24 02:45:00,Conta D,,Depósito
+286,101,saque,1015.99,2025-02-10 13:31:00,Conta C,,Saque
+287,139,saque,1701.03,2025-01-02 10:42:00,Conta F,,Saque
+288,122,transferencia,2086.21,2025-01-09 17:19:00,Conta H,Conta G,Transferência
+289,106,transferencia,208.4,2025-02-23 00:44:00,Conta A,Conta B,Transferência
+290,144,saque,1913.7,2025-02-17 14:25:00,Conta J,,Saque
+291,104,deposito,942.33,2025-02-25 01:29:00,Conta D,,Depósito
+292,131,saque,3143.14,2025-02-02 14:33:00,Conta A,,Saque
+293,142,saque,4190.84,2025-02-11 02:54:00,Conta H,,Saque
+294,107,deposito,4848.61,2025-01-04 01:03:00,Conta H,,Depósito
+295,106,transferencia,4694.93,2025-01-15 15:55:00,Conta D,Conta A,Transferência
+296,123,deposito,1964.28,2025-02-08 23:45:00,Conta D,,Depósito
+297,126,deposito,2202.9,2025-01-29 15:24:00,Conta J,,Depósito
+298,132,saque,4659.88,2025-01-18 23:27:00,Conta J,,Saque
+299,113,transferencia,862.07,2025-03-02 20:12:00,Conta C,Conta F,Transferência
+300,109,saque,2844.38,2025-02-19 11:59:00,Conta H,,Saque
+301,149,transferencia,632.24,2025-02-17 01:11:00,Conta A,Conta H,Transferência
+302,130,saque,2004.02,2025-03-02 09:11:00,Conta H,,Saque
+303,143,saque,4569.15,2025-01-07 09:19:00,Conta D,,Saque
+304,136,saque,4516.25,2025-01-09 20:09:00,Conta J,,Saque
+305,103,transferencia,3181.71,2025-02-15 08:05:00,Conta E,Conta A,Transferência
+306,106,deposito,4583.23,2025-01-21 19:03:00,Conta A,,Depósito
+307,112,saque,1163.8,2025-02-11 08:21:00,Conta D,,Saque
+308,140,deposito,4018.08,2025-01-28 22:18:00,Conta A,,Depósito
+309,102,transferencia,4180.8,2025-02-05 11:29:00,Conta J,Conta I,Transferência
+310,149,transferencia,3268.25,2025-02-15 11:26:00,Conta H,Conta D,Transferência
+311,144,saque,2524.13,2025-02-11 08:04:00,Conta A,,Saque
+312,140,transferencia,265.15,2025-02-12 19:38:00,Conta A,Conta A,Transferência
+313,113,saque,4143.53,2025-02-08 13:03:00,Conta F,,Saque
+314,130,deposito,975.57,2025-01-06 03:08:00,Conta E,,Depósito
+315,141,deposito,4795.73,2025-01-12 21:24:00,Conta I,,Depósito
+316,132,deposito,2098.23,2025-01-18 14:59:00,Conta C,,Depósito
+317,122,deposito,750.76,2025-01-27 02:05:00,Conta F,,Depósito
+318,104,transferencia,804.13,2025-02-02 14:30:00,Conta H,Conta H,Transferência
+319,143,transferencia,4698.96,2025-01-26 15:26:00,Conta A,Conta I,Transferência
+320,144,saque,719.06,2025-01-07 03:54:00,Conta E,,Saque
+321,133,transferencia,4823.16,2025-01-25 12:09:00,Conta D,Conta H,Transferência
+322,108,transferencia,2933.36,2025-02-05 12:01:00,Conta D,Conta E,Transferência
+323,123,saque,3946.61,2025-01-02 11:27:00,Conta B,,Saque
+324,131,deposito,4030.03,2025-02-03 16:16:00,Conta C,,Depósito
+325,114,saque,2339.29,2025-02-12 19:45:00,Conta A,,Saque
+326,128,saque,4959.12,2025-02-16 22:08:00,Conta G,,Saque
+327,133,deposito,3393.69,2025-02-18 23:27:00,Conta C,,Depósito
+328,103,saque,1608.86,2025-01-23 18:02:00,Conta G,,Saque
+329,134,saque,2942.5,2025-01-17 21:54:00,Conta B,,Saque
+330,144,deposito,1624.28,2025-02-27 02:00:00,Conta F,,Depósito
+331,116,saque,1508.89,2025-01-02 11:28:00,Conta H,,Saque
+332,146,deposito,1803.56,2025-02-09 04:55:00,Conta B,,Depósito
+333,123,saque,3762.9,2025-01-04 10:30:00,Conta C,,Saque
+334,140,deposito,4566.28,2025-01-26 15:06:00,Conta H,,Depósito
+335,126,deposito,2193.54,2025-02-09 08:37:00,Conta I,,Depósito
+336,114,saque,3086.77,2025-02-08 13:52:00,Conta H,,Saque
+337,101,deposito,3425.2,2025-02-06 00:40:00,Conta G,,Depósito
+338,113,saque,4099.9,2025-01-12 16:34:00,Conta F,,Saque
+339,136,saque,4064.59,2025-02-13 16:17:00,Conta I,,Saque
+340,103,transferencia,347.8,2025-01-02 00:46:00,Conta G,Conta B,Transferência
+341,143,transferencia,2117.96,2025-01-10 12:51:00,Conta G,Conta C,Transferência
+342,127,deposito,4032.01,2025-01-13 17:55:00,Conta F,,Depósito
+343,119,deposito,3019.25,2025-02-16 15:21:00,Conta G,,Depósito
+344,132,deposito,4962.52,2025-01-31 07:55:00,Conta F,,Depósito
+345,114,deposito,1602.08,2025-01-17 03:40:00,Conta D,,Depósito
+346,112,deposito,3507.7,2025-01-08 04:20:00,Conta D,,Depósito
+347,105,deposito,1793.51,2025-01-27 19:33:00,Conta E,,Depósito
+348,133,deposito,2577.29,2025-01-21 11:41:00,Conta H,,Depósito
+349,112,transferencia,1107.69,2025-01-03 20:17:00,Conta I,Conta D,Transferência
+350,122,transferencia,2176.06,2025-01-30 05:30:00,Conta I,Conta E,Transferência
+351,145,saque,2268.95,2025-02-21 03:57:00,Conta A,,Saque
+352,135,deposito,2757.87,2025-02-06 06:24:00,Conta H,,Depósito
+353,105,transferencia,964.87,2025-02-01 15:33:00,Conta E,Conta J,Transferência
+354,148,deposito,3763.75,2025-01-04 17:43:00,Conta J,,Depósito
+355,108,transferencia,512.31,2025-01-19 23:35:00,Conta E,Conta A,Transferência
+356,113,deposito,2477.84,2025-01-18 04:27:00,Conta I,,Depósito
+357,104,deposito,4106.45,2025-02-16 01:36:00,Conta G,,Depósito
+358,114,transferencia,3229.33,2025-02-05 14:12:00,Conta H,Conta G,Transferência
+359,102,saque,3396.39,2025-01-13 14:39:00,Conta J,,Saque
+360,147,saque,3755.81,2025-02-01 04:20:00,Conta D,,Saque
+361,143,saque,2191.57,2025-01-13 07:17:00,Conta I,,Saque
+362,111,saque,2470.62,2025-01-24 02:41:00,Conta J,,Saque
+363,128,deposito,4452.31,2025-02-04 12:33:00,Conta D,,Depósito
+364,130,saque,3863.65,2025-02-18 04:28:00,Conta E,,Saque
+365,114,deposito,2482.17,2025-01-12 16:46:00,Conta F,,Depósito
+366,142,deposito,3312.46,2025-02-24 19:27:00,Conta A,,Depósito
+367,148,transferencia,298.88,2025-02-17 05:51:00,Conta I,Conta H,Transferência
+368,112,saque,3008.2,2025-01-02 08:10:00,Conta D,,Saque
+369,124,saque,336.99,2025-01-26 01:15:00,Conta H,,Saque
+370,146,transferencia,3527.94,2025-01-25 05:47:00,Conta G,Conta A,Transferência
+371,108,saque,351.4,2025-01-12 20:55:00,Conta C,,Saque
+372,107,deposito,2438.26,2025-01-06 01:12:00,Conta E,,Depósito
+373,129,saque,1103.66,2025-02-14 11:42:00,Conta F,,Saque
+374,124,transferencia,661.29,2025-01-15 14:12:00,Conta H,Conta I,Transferência
+375,146,transferencia,3966.91,2025-02-12 14:58:00,Conta G,Conta C,Transferência
+376,130,transferencia,4912.61,2025-02-13 10:01:00,Conta C,Conta D,Transferência
+377,140,deposito,2180.62,2025-01-30 18:45:00,Conta I,,Depósito
+378,114,transferencia,1131.6,2025-02-05 08:35:00,Conta B,Conta B,Transferência
+379,129,deposito,398.96,2025-01-15 09:02:00,Conta C,,Depósito
+380,143,saque,531.22,2025-01-04 17:52:00,Conta C,,Saque
+381,128,transferencia,4406.13,2025-02-21 14:56:00,Conta B,Conta C,Transferência
+382,115,saque,3587.86,2025-02-07 23:00:00,Conta I,,Saque
+383,103,deposito,2044.85,2025-02-12 18:39:00,Conta F,,Depósito
+384,100,transferencia,483.79,2025-01-13 08:54:00,Conta J,Conta J,Transferência
+385,140,deposito,644.29,2025-01-09 06:07:00,Conta E,,Depósito
+386,147,deposito,3612.71,2025-01-05 02:58:00,Conta G,,Depósito
+387,126,deposito,974.68,2025-02-12 13:42:00,Conta D,,Depósito
+388,144,transferencia,3215.22,2025-01-06 05:26:00,Conta J,Conta A,Transferência
+389,108,transferencia,4186.31,2025-02-21 21:20:00,Conta C,Conta F,Transferência
+390,108,saque,2850.16,2025-02-07 16:35:00,Conta J,,Saque
+391,108,deposito,1659.04,2025-01-26 10:09:00,Conta E,,Depósito
+392,110,transferencia,1561.38,2025-01-29 08:15:00,Conta J,Conta B,Transferência
+393,108,transferencia,3250.91,2025-02-24 10:17:00,Conta E,Conta A,Transferência
+394,107,transferencia,1351.59,2025-01-19 14:02:00,Conta C,Conta B,Transferência
+395,130,saque,3850.39,2025-01-15 19:28:00,Conta J,,Saque
+396,120,saque,4416.08,2025-02-26 02:37:00,Conta F,,Saque
+397,109,saque,2003.65,2025-01-15 03:48:00,Conta C,,Saque
+398,112,saque,1750.05,2025-03-01 10:23:00,Conta C,,Saque
+399,121,saque,4635.71,2025-02-11 23:41:00,Conta D,,Saque
+400,133,saque,4961.4,2025-02-04 21:42:00,Conta A,,Saque
+401,102,transferencia,3210.87,2025-01-17 00:25:00,Conta C,Conta A,Transferência
+402,150,transferencia,3371.04,2025-01-21 11:34:00,Conta C,Conta J,Transferência
+403,108,saque,3047.9,2025-02-18 02:45:00,Conta H,,Saque
+404,146,deposito,2879.88,2025-01-20 22:23:00,Conta A,,Depósito
+405,111,saque,705.42,2025-01-30 16:15:00,Conta D,,Saque
+406,101,deposito,4020.02,2025-01-13 05:12:00,Conta A,,Depósito
+407,105,deposito,498.12,2025-02-04 23:59:00,Conta E,,Depósito
+408,104,transferencia,4296.52,2025-01-29 08:16:00,Conta F,Conta J,Transferência
+409,105,transferencia,1034.33,2025-01-29 08:34:00,Conta A,Conta I,Transferência
+410,136,saque,3832.93,2025-02-21 21:26:00,Conta G,,Saque
+411,122,saque,186.71,2025-02-04 05:59:00,Conta B,,Saque
+412,106,deposito,4309.35,2025-01-03 22:42:00,Conta D,,Depósito
+413,110,transferencia,3989.56,2025-01-23 22:52:00,Conta B,Conta J,Transferência
+414,137,saque,2733.37,2025-01-15 16:39:00,Conta B,,Saque
+415,135,transferencia,4035.9,2025-01-04 01:05:00,Conta C,Conta J,Transferência
+416,127,deposito,4622.5,2025-01-10 21:04:00,Conta J,,Depósito
+417,115,saque,2457.11,2025-01-03 22:19:00,Conta F,,Saque
+418,119,transferencia,4343.06,2025-01-04 10:29:00,Conta B,Conta F,Transferência
+419,122,saque,1803.9,2025-02-20 04:06:00,Conta C,,Saque
+420,101,transferencia,2965.74,2025-01-26 21:00:00,Conta E,Conta C,Transferência
+421,102,saque,790.7,2025-01-06 05:09:00,Conta B,,Saque
+422,119,transferencia,2836.45,2025-02-23 19:20:00,Conta A,Conta B,Transferência
+423,117,transferencia,3732.35,2025-01-25 02:01:00,Conta C,Conta C,Transferência
+424,149,saque,4213.11,2025-01-15 14:02:00,Conta H,,Saque
+425,117,saque,3577.6,2025-01-23 03:13:00,Conta I,,Saque
+426,118,transferencia,298.32,2025-01-11 01:33:00,Conta F,Conta I,Transferência
+427,108,saque,2864.67,2025-02-25 13:12:00,Conta F,,Saque
+428,104,transferencia,3975.12,2025-01-07 21:33:00,Conta J,Conta D,Transferência
+429,105,saque,101.25,2025-02-17 12:36:00,Conta E,,Saque
+430,147,deposito,411.43,2025-02-26 16:44:00,Conta F,,Depósito
+431,114,saque,210.68,2025-02-17 12:39:00,Conta I,,Saque
+432,134,deposito,3247.47,2025-02-10 04:40:00,Conta D,,Depósito
+433,131,deposito,2724.06,2025-02-09 14:33:00,Conta A,,Depósito
+434,121,saque,1679.29,2025-01-01 05:08:00,Conta B,,Saque
+435,124,deposito,3953.16,2025-02-09 22:29:00,Conta D,,Depósito
+436,137,transferencia,3210.81,2025-01-17 04:12:00,Conta G,Conta H,Transferência
+437,113,deposito,1770.4,2025-02-08 08:23:00,Conta B,,Depósito
+438,142,transferencia,334.56,2025-02-11 21:24:00,Conta B,Conta H,Transferência
+439,106,deposito,1093.81,2025-02-10 06:16:00,Conta J,,Depósito
+440,128,transferencia,4459.63,2025-02-23 02:11:00,Conta J,Conta G,Transferência
+441,123,deposito,3600.5,2025-01-13 01:00:00,Conta J,,Depósito
+442,132,deposito,1430.45,2025-02-25 06:02:00,Conta G,,Depósito
+443,116,saque,4464.31,2025-01-27 12:29:00,Conta D,,Saque
+444,143,deposito,1505.69,2025-01-10 03:51:00,Conta G,,Depósito
+445,109,saque,3090.32,2025-01-20 20:34:00,Conta G,,Saque
+446,128,saque,840.18,2025-01-24 09:04:00,Conta A,,Saque
+447,145,saque,540.08,2025-02-02 12:38:00,Conta J,,Saque
+448,147,transferencia,3007.0,2025-01-18 17:58:00,Conta D,Conta G,Transferência
+449,140,transferencia,1699.0,2025-02-15 19:41:00,Conta E,Conta F,Transferência
+450,128,saque,4369.92,2025-02-21 10:19:00,Conta A,,Saque
+451,145,saque,3574.88,2025-01-16 10:51:00,Conta E,,Saque
+452,100,deposito,2065.17,2025-01-17 07:47:00,Conta H,,Depósito
+453,138,deposito,4554.74,2025-01-01 02:45:00,Conta D,,Depósito
+454,140,transferencia,2939.32,2025-02-06 08:59:00,Conta E,Conta G,Transferência
+455,124,deposito,1068.21,2025-01-18 09:20:00,Conta H,,Depósito
+456,139,transferencia,3635.51,2025-02-23 14:50:00,Conta A,Conta A,Transferência
+457,132,deposito,1091.68,2025-02-15 16:44:00,Conta E,,Depósito
+458,109,transferencia,175.6,2025-02-20 08:56:00,Conta E,Conta D,Transferência
+459,122,transferencia,2770.91,2025-02-01 05:14:00,Conta H,Conta A,Transferência
+460,142,deposito,3136.28,2025-01-27 20:01:00,Conta E,,Depósito
+461,134,transferencia,3149.68,2025-01-22 00:00:00,Conta A,Conta F,Transferência
+462,125,deposito,1759.39,2025-01-09 02:45:00,Conta H,,Depósito
+463,128,saque,15.72,2025-02-15 18:11:00,Conta A,,Saque
+464,117,saque,1525.05,2025-02-07 15:16:00,Conta C,,Saque
+465,106,deposito,750.69,2025-01-09 01:08:00,Conta H,,Depósito
+466,114,transferencia,1236.01,2025-01-27 19:39:00,Conta E,Conta A,Transferência
+467,132,deposito,2501.76,2025-02-22 18:09:00,Conta G,,Depósito
+468,115,deposito,1855.58,2025-02-13 12:54:00,Conta G,,Depósito
+469,107,transferencia,2896.58,2025-01-01 11:29:00,Conta C,Conta B,Transferência
+470,117,transferencia,4021.28,2025-01-31 06:55:00,Conta E,Conta I,Transferência
+471,114,saque,3946.29,2025-01-29 01:25:00,Conta D,,Saque
+472,126,saque,1157.7,2025-02-15 03:40:00,Conta E,,Saque
+473,143,saque,2066.22,2025-02-21 11:27:00,Conta H,,Saque
+474,146,saque,1098.48,2025-01-11 05:55:00,Conta G,,Saque
+475,107,transferencia,4661.54,2025-02-20 09:37:00,Conta D,Conta C,Transferência
+476,108,transferencia,1809.88,2025-01-04 01:47:00,Conta H,Conta C,Transferência
+477,150,saque,3742.56,2025-01-08 14:08:00,Conta A,,Saque
+478,124,deposito,2226.81,2025-01-01 07:39:00,Conta H,,Depósito
+479,116,transferencia,2882.84,2025-01-29 17:25:00,Conta I,Conta E,Transferência
+480,127,deposito,2941.72,2025-02-18 16:12:00,Conta G,,Depósito
+481,110,deposito,4613.04,2025-02-23 05:39:00,Conta E,,Depósito
+482,146,deposito,1324.35,2025-02-25 19:15:00,Conta E,,Depósito
+483,146,deposito,2197.56,2025-01-26 18:17:00,Conta F,,Depósito
+484,111,transferencia,1977.96,2025-02-24 09:53:00,Conta H,Conta G,Transferência
+485,145,deposito,2354.82,2025-01-23 13:06:00,Conta G,,Depósito
+486,114,deposito,2178.11,2025-02-18 00:36:00,Conta B,,Depósito
+487,132,deposito,226.29,2025-02-26 03:27:00,Conta B,,Depósito
+488,103,deposito,1155.51,2025-02-01 10:07:00,Conta B,,Depósito
+489,140,saque,4229.58,2025-02-26 12:14:00,Conta B,,Saque
+490,131,saque,1204.03,2025-01-27 20:12:00,Conta H,,Saque
+491,112,deposito,2228.77,2025-02-02 08:42:00,Conta E,,Depósito
+492,123,saque,20.15,2025-01-23 02:33:00,Conta J,,Saque
+493,109,deposito,758.87,2025-02-03 07:54:00,Conta D,,Depósito
+494,125,deposito,4344.9,2025-02-06 12:19:00,Conta A,,Depósito
+495,141,saque,2347.5,2025-01-19 11:49:00,Conta B,,Saque
+496,136,saque,4466.78,2025-01-18 17:45:00,Conta G,,Saque
+497,125,transferencia,975.85,2025-01-20 20:42:00,Conta E,Conta J,Transferência
+498,127,saque,3160.52,2025-02-20 05:17:00,Conta F,,Saque
+499,119,deposito,2626.99,2025-02-12 03:27:00,Conta C,,Depósito
+500,147,saque,4222.25,2025-01-21 19:51:00,Conta I,,Saque
